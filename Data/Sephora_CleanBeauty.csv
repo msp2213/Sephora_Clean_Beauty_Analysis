@@ -1,0 +1,451 @@
+"Age_Group","Gender","Ad_Type","Ad_Clicked","Sales_Conversion","Time_Spent_on_Ad"
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.2
+"Millennial","Female","Sustainable Packaging","False","False",4.8
+"Gen X","Female","No Label","True","True",3.3
+"Gen Z","Female","Non-Toxic Ingredients","True","False",5.3
+"Millennial","Female","Sustainable Packaging","True","False",4.2
+"Gen X","Female","No Label","True","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Female","Sustainable Packaging","True","False",3.4
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Male","Non-Toxic Ingredients","True","False",3.7
+"Millennial","Male","Sustainable Packaging","True","True",5.6
+"Gen X","Female","No Label","True","True",1.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","False",3.8
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.7
+"Millennial","Female","Sustainable Packaging","True","True",4.5
+"Gen X","Female","No Label","False","False",2.1
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.4
+"Millennial","Female","Sustainable Packaging","False","False",3
+"Gen X","Male","No Label","False","False",1.9
+"Gen Z","Male","Non-Toxic Ingredients","False","False",3.8
+"Millennial","Male","Sustainable Packaging","False","False",3.9
+"Gen X","Male","No Label","True","False",1.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","True","True",5.2
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.2
+"Millennial","Female","Sustainable Packaging","False","False",3.5
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.7
+"Millennial","Female","Sustainable Packaging","False","False",4.3
+"Gen X","Female","No Label","True","False",2.7
+"Gen Z","Male","Non-Toxic Ingredients","True","False",3.5
+"Millennial","Male","Sustainable Packaging","True","True",3.4
+"Gen X","Female","No Label","False","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.9
+"Millennial","Female","Sustainable Packaging","True","False",4.8
+"Gen X","Female","No Label","False","False",2.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",2.7
+"Millennial","Male","Sustainable Packaging","True","False",4
+"Gen X","Male","No Label","True","False",2.1
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4
+"Millennial","Female","Sustainable Packaging","True","True",4.9
+"Gen X","Female","No Label","False","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.3
+"Millennial","Female","Sustainable Packaging","True","True",5.4
+"Gen X","Female","No Label","False","False",2.1
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.7
+"Millennial","Female","Sustainable Packaging","True","True",5.5
+"Gen X","Female","No Label","True","True",1.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3
+"Millennial","Female","Sustainable Packaging","True","False",4.5
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.2
+"Millennial","Female","Sustainable Packaging","True","False",4.7
+"Gen X","Female","No Label","False","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.8
+"Millennial","Female","Sustainable Packaging","True","False",4.4
+"Gen X","Female","No Label","False","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.8
+"Millennial","Female","Sustainable Packaging","False","False",2.7
+"Gen X","Female","No Label","True","True",0.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Female","Sustainable Packaging","True","True",5.3
+"Gen X","Female","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.9
+"Millennial","Female","Sustainable Packaging","True","False",4.7
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.6
+"Millennial","Female","Sustainable Packaging","False","False",3.1
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.5
+"Millennial","Female","Sustainable Packaging","True","False",3.8
+"Gen X","Female","No Label","False","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.6
+"Millennial","Female","Sustainable Packaging","False","False",4.8
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3
+"Millennial","Female","Sustainable Packaging","False","False",3.4
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.9
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Female","No Label","True","True",2.8
+"Gen Z","Male","Non-Toxic Ingredients","True","True",3.9
+"Millennial","Female","Sustainable Packaging","True","False",3.8
+"Gen X","Female","No Label","True","False",1.1
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.9
+"Millennial","Female","Sustainable Packaging","False","False",2.7
+"Gen X","Male","No Label","True","True",2.7
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.8
+"Millennial","Female","Sustainable Packaging","True","True",2.1
+"Gen X","Female","No Label","False","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","True","True",4.3
+"Gen X","Female","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.1
+"Millennial","Female","Sustainable Packaging","True","False",5.6
+"Gen X","Female","No Label","False","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.8
+"Millennial","Female","Sustainable Packaging","True","True",3.5
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.8
+"Millennial","Female","Sustainable Packaging","True","True",5
+"Gen X","Male","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.7
+"Millennial","Female","Sustainable Packaging","False","False",3.9
+"Gen X","Female","No Label","True","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","False","False",2.4
+"Millennial","Female","Sustainable Packaging","True","True",4.6
+"Gen X","Female","No Label","False","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.6
+"Millennial","Female","Sustainable Packaging","False","False",4.1
+"Gen X","Female","No Label","True","True",1.7
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.4
+"Millennial","Female","Sustainable Packaging","True","True",3.5
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.3
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.9
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Female","No Label","True","True",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.6
+"Millennial","Female","Sustainable Packaging","False","False",4.4
+"Gen X","Male","No Label","False","False",3.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","False","False",2.8
+"Gen X","Female","No Label","True","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.3
+"Millennial","Female","Sustainable Packaging","True","True",3.2
+"Gen X","Female","No Label","False","False",0.9
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.8
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Male","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","False",2.6
+"Millennial","Female","Sustainable Packaging","False","False",5.7
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","False",2.4
+"Gen X","Female","No Label","False","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","False","False",2.4
+"Millennial","Male","Sustainable Packaging","False","False",3.6
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Male","Non-Toxic Ingredients","False","False",3.9
+"Millennial","Female","Sustainable Packaging","True","False",3.2
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Male","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Female","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","False","False",0.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","True","True",4.7
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Male","Non-Toxic Ingredients","True","True",5.3
+"Millennial","Female","Sustainable Packaging","True","True",4.6
+"Gen X","Male","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","False","False",4.2
+"Gen X","Female","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","False","False",3.2
+"Millennial","Female","Sustainable Packaging","False","False",3.4
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.4
+"Millennial","Female","Sustainable Packaging","True","False",3.7
+"Gen X","Female","No Label","True","False",2.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.5
+"Millennial","Female","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","True","False",3.1
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.1
+"Millennial","Male","Sustainable Packaging","False","False",2.5
+"Gen X","Male","No Label","False","False",2
+"Gen Z","Male","Non-Toxic Ingredients","False","False",3.2
+"Millennial","Male","Sustainable Packaging","False","False",4.8
+"Gen X","Female","No Label","True","False",1.9
+"Gen Z","Male","Non-Toxic Ingredients","True","True",5.5
+"Millennial","Female","Sustainable Packaging","True","False",3.9
+"Gen X","Female","No Label","False","False",1.6
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.2
+"Millennial","Female","Sustainable Packaging","False","False",5.6
+"Gen X","Female","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","False","False",5.3
+"Millennial","Female","Sustainable Packaging","False","False",4.7
+"Gen X","Female","No Label","False","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.5
+"Millennial","Female","Sustainable Packaging","True","True",4.1
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.6
+"Millennial","Female","Sustainable Packaging","False","False",4.6
+"Gen X","Female","No Label","True","False",1.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.2
+"Millennial","Female","Sustainable Packaging","True","True",3.9
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.2
+"Millennial","Female","Sustainable Packaging","True","False",2.3
+"Gen X","Female","No Label","False","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","True",5.1
+"Gen X","Female","No Label","False","False",3.1
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4
+"Millennial","Female","Sustainable Packaging","False","False",3.7
+"Gen X","Male","No Label","False","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","False",5.7
+"Millennial","Male","Sustainable Packaging","True","False",2.6
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.1
+"Millennial","Female","Sustainable Packaging","True","True",3.5
+"Gen X","Female","No Label","False","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3
+"Millennial","Female","Sustainable Packaging","False","False",3.8
+"Gen X","Female","No Label","False","False",2.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",1.7
+"Millennial","Female","Sustainable Packaging","True","False",3.7
+"Gen X","Female","No Label","False","False",2.1
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","False","False",3.7
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","False",5.2
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Male","No Label","True","True",2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.5
+"Millennial","Female","Sustainable Packaging","True","False",4.5
+"Gen X","Female","No Label","False","False",2.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.7
+"Millennial","Female","Sustainable Packaging","True","False",3.5
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.8
+"Millennial","Female","Sustainable Packaging","True","True",2
+"Gen X","Female","No Label","False","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.5
+"Millennial","Male","Sustainable Packaging","False","False",4.9
+"Gen X","Female","No Label","False","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.5
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Female","No Label","True","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.8
+"Millennial","Female","Sustainable Packaging","True","False",4.2
+"Gen X","Female","No Label","False","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.8
+"Millennial","Female","Sustainable Packaging","True","False",5.4
+"Gen X","Male","No Label","True","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.6
+"Millennial","Female","Sustainable Packaging","True","True",2.4
+"Gen X","Female","No Label","False","False",1.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.5
+"Millennial","Female","Sustainable Packaging","False","False",3.4
+"Gen X","Female","No Label","True","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","False",5.2
+"Millennial","Female","Sustainable Packaging","True","False",4.1
+"Gen X","Female","No Label","True","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.2
+"Millennial","Male","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.7
+"Millennial","Female","Sustainable Packaging","True","True",4.3
+"Gen X","Male","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.6
+"Millennial","Female","Sustainable Packaging","True","False",4.6
+"Gen X","Male","No Label","True","True",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.7
+"Millennial","Male","Sustainable Packaging","True","False",4.1
+"Gen X","Female","No Label","True","True",1.1
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.5
+"Millennial","Female","Sustainable Packaging","True","False",3.9
+"Gen X","Female","No Label","True","False",2.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4
+"Millennial","Female","Sustainable Packaging","True","True",4
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Female","Sustainable Packaging","False","False",2.1
+"Gen X","Male","No Label","True","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Male","Sustainable Packaging","True","True",5.7
+"Gen X","Female","No Label","True","True",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.5
+"Millennial","Female","Sustainable Packaging","True","True",6.1
+"Gen X","Female","No Label","False","False",2.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.2
+"Millennial","Female","Sustainable Packaging","True","False",5.1
+"Gen X","Female","No Label","False","False",3.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.1
+"Millennial","Female","Sustainable Packaging","False","False",2.5
+"Gen X","Female","No Label","True","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.3
+"Millennial","Female","Sustainable Packaging","False","False",4.1
+"Gen X","Male","No Label","False","False",0.8
+"Gen Z","Female","Non-Toxic Ingredients","True","False",2.3
+"Millennial","Female","Sustainable Packaging","True","True",4.1
+"Gen X","Female","No Label","True","True",1.4
+"Gen Z","Male","Non-Toxic Ingredients","True","True",4.9
+"Millennial","Female","Sustainable Packaging","True","False",5
+"Gen X","Female","No Label","False","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.6
+"Millennial","Male","Sustainable Packaging","True","True",4.9
+"Gen X","Female","No Label","True","True",1.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",3.4
+"Millennial","Female","Sustainable Packaging","False","False",3.6
+"Gen X","Female","No Label","True","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.4
+"Millennial","Female","Sustainable Packaging","True","False",5.6
+"Gen X","Female","No Label","True","True",1.9
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.4
+"Millennial","Female","Sustainable Packaging","True","False",3.2
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",2.5
+"Millennial","Female","Sustainable Packaging","True","False",5
+"Gen X","Male","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5
+"Millennial","Female","Sustainable Packaging","True","False",4.6
+"Gen X","Female","No Label","False","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4
+"Millennial","Male","Sustainable Packaging","True","True",4.1
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Female","Non-Toxic Ingredients","False","False",2.9
+"Millennial","Female","Sustainable Packaging","True","True",3.4
+"Gen X","Female","No Label","True","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.6
+"Millennial","Female","Sustainable Packaging","True","False",5.7
+"Gen X","Female","No Label","True","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",5.6
+"Millennial","Female","Sustainable Packaging","True","True",4.2
+"Gen X","Male","No Label","False","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","False",4
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","True",4.9
+"Gen X","Female","No Label","True","False",1.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5
+"Millennial","Male","Sustainable Packaging","True","True",4.6
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.1
+"Millennial","Male","Sustainable Packaging","True","False",5.4
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.1
+"Millennial","Male","Sustainable Packaging","False","False",4
+"Gen X","Female","No Label","True","False",2.3
+"Gen Z","Male","Non-Toxic Ingredients","False","False",5
+"Millennial","Female","Sustainable Packaging","True","False",3.5
+"Gen X","Female","No Label","True","False",2.1
+"Gen Z","Male","Non-Toxic Ingredients","False","False",5
+"Millennial","Female","Sustainable Packaging","True","False",5.6
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.8
+"Millennial","Female","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.2
+"Millennial","Female","Sustainable Packaging","True","False",5.1
+"Gen X","Female","No Label","False","False",1
+"Gen Z","Female","Non-Toxic Ingredients","False","False",5.1
+"Millennial","Female","Sustainable Packaging","True","True",3.7
+"Gen X","Male","No Label","False","False",1.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.6
+"Millennial","Female","Sustainable Packaging","True","False",4.5
+"Gen X","Female","No Label","False","False",2
+"Gen Z","Male","Non-Toxic Ingredients","True","True",1.4
+"Millennial","Female","Sustainable Packaging","True","True",4.1
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.5
+"Millennial","Female","Sustainable Packaging","False","False",4.3
+"Gen X","Female","No Label","True","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.9
+"Millennial","Female","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","True","True",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.6
+"Millennial","Female","Sustainable Packaging","True","True",4
+"Gen X","Female","No Label","False","False",2.2
+"Gen Z","Female","Non-Toxic Ingredients","False","False",4.2
+"Millennial","Female","Sustainable Packaging","False","False",4.2
+"Gen X","Female","No Label","True","True",3.1
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.4
+"Millennial","Female","Sustainable Packaging","True","False",3.2
+"Gen X","Female","No Label","True","False",1.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.7
+"Millennial","Male","Sustainable Packaging","True","False",4
+"Gen X","Female","No Label","False","False",0.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.3
+"Millennial","Female","Sustainable Packaging","False","False",3.7
+"Gen X","Female","No Label","False","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4
+"Millennial","Female","Sustainable Packaging","False","False",4.5
+"Gen X","Female","No Label","False","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",5.2
+"Millennial","Male","Sustainable Packaging","False","False",5
+"Gen X","Male","No Label","False","False",1.9
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.6
+"Millennial","Female","Sustainable Packaging","True","True",3.7
+"Gen X","Female","No Label","False","False",1.8
+"Gen Z","Male","Non-Toxic Ingredients","True","False",5.1
+"Millennial","Female","Sustainable Packaging","True","False",3.2
+"Gen X","Female","No Label","True","True",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.5
+"Millennial","Female","Sustainable Packaging","True","False",3
+"Gen X","Female","No Label","False","False",1.9
+"Gen Z","Male","Non-Toxic Ingredients","True","True",3.9
+"Millennial","Female","Sustainable Packaging","True","False",5.6
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","False",2.9
+"Millennial","Female","Sustainable Packaging","True","True",4.1
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.7
+"Millennial","Female","Sustainable Packaging","True","True",4.2
+"Gen X","Female","No Label","False","False",2.6
+"Gen Z","Female","Non-Toxic Ingredients","True","False",4.9
+"Millennial","Male","Sustainable Packaging","True","True",4.7
+"Gen X","Female","No Label","False","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.9
+"Millennial","Female","Sustainable Packaging","False","False",5.5
+"Gen X","Female","No Label","True","False",1.7
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.7
+"Millennial","Female","Sustainable Packaging","True","False",1.3
+"Gen X","Female","No Label","False","False",2.3
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.5
+"Millennial","Male","Sustainable Packaging","True","False",3.9
+"Gen X","Female","No Label","False","False",2.8
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.2
+"Millennial","Female","Sustainable Packaging","True","True",3.5
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","False","False",3.7
+"Millennial","Female","Sustainable Packaging","False","False",3.7
+"Gen X","Female","No Label","True","False",2
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.7
+"Millennial","Female","Sustainable Packaging","True","True",5.1
+"Gen X","Female","No Label","False","False",0.7
+"Gen Z","Male","Non-Toxic Ingredients","False","False",2.8
+"Millennial","Female","Sustainable Packaging","False","False",6
+"Gen X","Female","No Label","True","True",1.6
+"Gen Z","Female","Non-Toxic Ingredients","True","True",4.6
+"Millennial","Female","Sustainable Packaging","True","True",3.6
+"Gen X","Female","No Label","True","True",1.5
+"Gen Z","Female","Non-Toxic Ingredients","True","False",3.6
+"Millennial","Female","Sustainable Packaging","True","False",3.3
+"Gen X","Female","No Label","False","False",2.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",2.4
+"Millennial","Female","Sustainable Packaging","True","False",4.6
+"Gen X","Female","No Label","True","False",2.4
+"Gen Z","Male","Non-Toxic Ingredients","True","False",4.4
+"Millennial","Female","Sustainable Packaging","False","False",4
+"Gen X","Female","No Label","False","False",2.5
+"Gen Z","Male","Non-Toxic Ingredients","True","False",4.2
+"Millennial","Male","Sustainable Packaging","True","True",2.3
+"Gen X","Female","No Label","True","False",2.4
+"Gen Z","Male","Non-Toxic Ingredients","True","True",4.6
+"Millennial","Male","Sustainable Packaging","True","True",5.3
+"Gen X","Female","No Label","True","False",1.4
+"Gen Z","Female","Non-Toxic Ingredients","True","True",3.7
+"Millennial","Female","Sustainable Packaging","True","False",4.3
+"Gen X","Female","No Label","True","False",1.5
+"Gen Z","Female","Non-Toxic Ingredients","False","False",5.9
+"Millennial","Female","Sustainable Packaging","True","False",6.1
+"Gen X","Female","No Label","True","False",1.8
